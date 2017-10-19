@@ -1,0 +1,1 @@
+go run *.go -port=6767
